@@ -96,8 +96,9 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 </p>
 
 ---
+
 ## 📂 Projetos em Destaque
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -134,21 +135,24 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
   </tr>
 </table>
 
-
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Math3us021f&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3us021f&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=00000000&title_color=BD93F9&text_color=F8F8F2" alt="Linguagens mais usadas"/>
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Math3us021f&theme=dracula&hide_border=true&background=00000000&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD" alt="Sequência de contribuições"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3us021f&layout=compact&theme=dracula&hide_border=true&langs_count=6&card_width=330&bg_color=00000000&title_color=BD93F9&text_color=F8F8F2&cache_seconds=86400" alt="Linguagens mais usadas"/>
+<img height="150" src="https://streak-stats.demolab.com?user=Math3us021f&theme=dracula&hide_border=true&background=00000000&card_width=330&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD" alt="Sequência de contribuições"/>
 
 </div>
+
+<!--
+  Para reativar o card geral de estatísticas quando o volume de commits crescer,
+  cole a linha abaixo dentro da <div> acima:
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Math3us021f&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=issues,prs&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="Estatísticas do GitHub"/>
+-->
+
 
 ---
 
