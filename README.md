@@ -1,18 +1,3 @@
-<!--
-=====================================================================
-  README DE PERFIL — Matheus Antonio (@Math3us021f)
-  Tema visual: Dracula (#BD93F9 roxo | #FF79C6 rosa | #8BE9FD ciano)
-  ---------------------------------------------------------------
-  ⚠️ ANTES DE PUBLICAR, TROQUE OS 3 PLACEHOLDERS:
-    1. SEU-LINKEDIN   -> slug do seu LinkedIn
-    2. seu@email.com  -> seu e-mail real
-    3. Links dos projetos em destaque
-  ---------------------------------------------------------------
-  Este arquivo deve ficar em um repositório com o MESMO nome do seu
-  usuário: github.com/Math3us021f/Math3us021f
-=====================================================================
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6272A4,50:BD93F9,100:FF79C6&height=180&section=header&text=Matheus%20Antonio&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Engenharia%20de%20Dados&descAlignY=52&descSize=16" width="100%" alt="banner"/>
@@ -156,7 +141,16 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Math3us021f&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Troféus"/>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Math3us021f&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3us021f&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=00000000&title_color=BD93F9&text_color=F8F8F2" alt="Linguagens mais usadas"/>
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Math3us021f&theme=dracula&hide_border=true&background=00000000&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD" alt="Sequência de contribuições"/>
+
+</div>
 
 </div>
 
@@ -168,10 +162,10 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 
 Se você tem um processo repetitivo comendo o tempo do seu time, provavelmente dá para automatizar. Chama.
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/mthsa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:seu@email.com">
+<a href="mailto:matheus20antonio@gmial.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 <a href="https://github.com/Math3us021f" target="_blank">
