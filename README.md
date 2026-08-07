@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/mthsa/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:seu@email.com">
+<a href="mailto:matheus20antonio@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 <a href="https://github.com/Math3us021f?tab=repositories">
@@ -31,7 +31,7 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 - ⚙️ **Foco atual:** ETL serverless, orquestração de rotinas e dashboards de performance
 - 🧩 **Como eu penso:** dado sem contexto é ruído — automação boa é a que ninguém precisa lembrar que existe
 - 💼 **Status:** disponível para projetos e novas oportunidades
-- 📫 **Contato:** [seu@email.com](mailto:seu@email.com)
+- 📫 **Contato:** [matheus20antonio@gmail.com](mailto:matheus20antonio@gmail.com)
 
 <br clear="right"/>
 
@@ -40,13 +40,15 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 ## 🛠️ Stack Tecnológica
 
 #### 💻 Linguagens
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 #### 📊 Dados & Análise
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -55,6 +57,7 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 </p>
 
 #### ☁️ Cloud & Automação
+
 <p>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -63,6 +66,7 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 </p>
 
 #### 📈 Business Intelligence
+
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/>
@@ -70,6 +74,7 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 </p>
 
 #### 🧰 Ferramentas
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -82,6 +87,7 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 ## 🌱 Estudando no momento
 
 <!-- Ajuste esta lista para o que você realmente está estudando hoje -->
+
 <p>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
@@ -90,41 +96,44 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 </p>
 
 ---
-
 ## 📂 Projetos em Destaque
-
+ 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📊 Controle de Budget</h3>
       <p align="center">
-        <a href="https://github.com/Math3us021f" target="_blank">
+        <a href="https://github.com/Math3us021f/controle-budget">
           <img src="https://img.shields.io/badge/Ver_projeto-BD93F9?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
         </a>
       </p>
-      <p>Automação em <b>Google Apps Script</b> + <b>Python</b> que consolida dados de campanhas e métricas de desempenho em um painel único, eliminando a consolidação manual de planilhas.</p>
+      <p>Automação em <b>Google Apps Script</b> que consome as APIs do <b>Meta Ads</b> (Graph) e do <b>Google Ads</b> (GAQL + OAuth), grava os dados brutos no <b>Google Sheets</b> e monta uma <code>Overview</code> com consumo, residual e estimativa de fechamento do orçamento — tudo em fórmulas nativas, auditáveis sem rodar o script.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Google Apps Script"/>
+        <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads API"/>
+        <img src="https://img.shields.io/badge/Google_Ads-E37400?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads API"/>
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ Integração Serverless</h3>
+      <h3 align="center">☁️ Newsletter API</h3>
       <p align="center">
-        <a href="https://github.com/Math3us021f" target="_blank">
+        <a href="https://github.com/Math3us021f/api-newsletter">
           <img src="https://img.shields.io/badge/Ver_projeto-BD93F9?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
         </a>
       </p>
-      <p>Pipeline <b>ETL</b> em <b>Python</b> rodando em <b>AWS Lambda</b> para processamento e análise de dados corporativos, com execução agendada e custo próximo de zero em idle.</p>
+      <p>API <b>FastAPI</b> serverless em <b>AWS Lambda</b> (via Mangum + Function URL) que consulta o <b>MySQL</b>, gera resumos automáticos e gráficos, publica as imagens no <b>S3</b> e devolve um JSON estruturado consumido pelo sistema que monta a newsletter final.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+        <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -139,19 +148,6 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 
 <img height="165" src="https://streak-stats.demolab.com?user=Math3us021f&theme=dracula&hide_border=true&background=00000000&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD" alt="Sequência de contribuições"/>
 
-<br/><br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Math3us021f&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="Estatísticas do GitHub"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3us021f&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=00000000&title_color=BD93F9&text_color=F8F8F2" alt="Linguagens mais usadas"/>
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Math3us021f&theme=dracula&hide_border=true&background=00000000&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD" alt="Sequência de contribuições"/>
-
-</div>
-
 </div>
 
 ---
@@ -162,13 +158,13 @@ Sou **Desenvolvedor Python** especializado em **automação, pipelines de dados 
 
 Se você tem um processo repetitivo comendo o tempo do seu time, provavelmente dá para automatizar. Chama.
 
-<a href="https://www.linkedin.com/in/mthsa" target="_blank">
+<a href="https://www.linkedin.com/in/mthsa/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:matheus20antonio@gmial.com">
+<a href="mailto:matheus20antonio@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
-<a href="https://github.com/Math3us021f" target="_blank">
+<a href="https://github.com/Math3us021f">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
