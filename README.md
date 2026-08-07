@@ -12,7 +12,7 @@
 <a href="mailto:matheus20antonio@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
-<a href="https://github.com/Math3us021f?tab=repositories">
+<a href="https://math3us021f.github.io/mths-solutions/">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-BD93F9?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Math3us021f&style=for-the-badge&color=BD93F9&label=VISITAS" alt="Profile views"/>
